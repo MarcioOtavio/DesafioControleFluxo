@@ -9,5 +9,5 @@ O sistema receberá dois parâmetros via terminal que representarão dois númer
 ## Utilização dos conhecimentos adquiridos:
 
 - Uso dos controles de fluxos
-- `lib`: the folder to maintain dependenciesUso de tratamento de exceções
+- Uso de tratamento de exceções
 
