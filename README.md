@@ -1,18 +1,13 @@
-## Getting Started
+## Segundo desafio do bootcamp Santander em parceria com a Dio
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+O desafio tem como propósito exercitar o conteúdo apresentado no módulo de Controle de Fluxo
 
-## Folder Structure
+##  Sobre o desafio
 
-The workspace contains two folders by default, where:
+O sistema receberá dois parâmetros via terminal que representarão dois números inteiros, com estes números deverá obter a quantidade de iterações (for) e realizar a impressão no console (System.out.print) dos números incrementados:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Utilização dos conhecimentos adquiridos:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Uso dos controles de fluxos
+- `lib`: the folder to maintain dependenciesUso de tratamento de exceções
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
